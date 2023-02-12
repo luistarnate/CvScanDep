@@ -7,7 +7,7 @@ import 'signature.dart';
 ///
 ///
 ///
-/// @author [ Mikagura12 ]
+/// 
 ///
 ///
 ///
