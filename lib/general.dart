@@ -1,6 +1,5 @@
 library general;
 
-import 'signature.dart';
 
 /// --------------------------
 ///
